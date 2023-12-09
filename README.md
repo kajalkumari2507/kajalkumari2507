@@ -4,7 +4,6 @@
 
 # 💫 About Me:
 👩‍💻 I’m currently working as a **Software Developer at Dextrosoft Pvt. Ltd**. <br>
-🔭 I’m currently working on **e-Learning Website** <br>
 🌱 I’m currently learning **Flutter** <br>
 💬 Ask me about **Web & Android Development** <br>
 ⚡ Fun fact is I'm a possessive learner.
